@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Kadoo</string>
+
+    <string name="no_gps_notice">We can\'t seem to locate your current location. Please make
+    sure to turn on your GPS Service.</string>
+    <string name="no_gps_btn_text">Turn It On</string>
+    <string name="map_search_placeholder">Search for a place...</string>
+</resources>
